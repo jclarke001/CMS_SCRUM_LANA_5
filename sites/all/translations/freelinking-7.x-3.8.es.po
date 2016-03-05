@@ -1,0 +1,28 @@
+# Spanish translation of Freelinking (7.x-3.8)
+# Copyright (c) 2015 by the Spanish translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Freelinking (7.x-3.8)\n"
+"POT-Creation-Date: 2015-04-16 05:23+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Error Message"
+msgstr "Mensaje de Error"
+msgid "Input filters"
+msgstr "Filtros de entrada"
+msgid "Do nothing"
+msgstr "No hacer nada"
+msgid "Standard"
+msgstr "Estándar"
+msgid "Language code"
+msgstr "Código de idioma"
+msgid "-None-"
+msgstr "-Nada-"
+msgid "filter"
+msgstr "filtro"

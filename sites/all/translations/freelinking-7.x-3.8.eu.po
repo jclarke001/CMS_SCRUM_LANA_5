@@ -1,0 +1,24 @@
+# Basque translation of Freelinking (7.x-3.8)
+# Copyright (c) 2015 by the Basque translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Freelinking (7.x-3.8)\n"
+"POT-Creation-Date: 2015-04-16 05:22+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Basque\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Input filters"
+msgstr "Sarrera iragazkiak"
+msgid "Standard"
+msgstr "Estandar"
+msgid "Language code"
+msgstr "Hizkuntza kodea"
+msgid "Freelinking settings"
+msgstr "Freelinking ezarpenak"
+msgid "filter"
+msgstr "iragazi"
